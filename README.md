@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm IronGamesOFC!
 
-<!--
-**IronGamesOFC/IronGamesOFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 **Python Programmer | Simple Games and Creative Projects**
 
-Here are some ideas to get you started:
+I'm a beginner Python programmer focused on building small games and creative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* Python
+* Programming Logic
+* Debugging
+* Problem Solving
+* Game Development
+
+## 🎮 Projects
+
+* 🐉 **Terminal RPG** — A Python RPG with battles, enemies, a shop, weapons, and potions.
+* ✊ **Rock Paper Scissors** — A Python game with random computer choices and a score system.
+
+## 🚀 Currently Learning
+
+* Python
+* Pygame
+* Game Development
+
+## 🎯 Goal
+
+Build fun Python games and continue improving my programming skills.
+
+---
+
+*Always learning. Always building.*
